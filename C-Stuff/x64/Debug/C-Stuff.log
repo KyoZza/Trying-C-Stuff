@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\sandro\onedrive\visualstudioprojekte\allgemein\c-stuff\c-stuff\main.c(52): warning C4047: "return": Anzahl der Dereferenzierungen bei "char" und "void *" unterschiedlich
+c:\users\sandro\onedrive\visualstudioprojekte\allgemein\c-stuff\c-stuff\main.c(79): warning C4047: "return": Anzahl der Dereferenzierungen bei "char" und "void *" unterschiedlich
+  C-Stuff.vcxproj -> C:\Users\Sandro\OneDrive\VisualStudioProjekte\Allgemein\C-Stuff\x64\Debug\C-Stuff.exe

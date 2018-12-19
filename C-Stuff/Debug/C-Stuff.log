@@ -1,0 +1,12 @@
+﻿  main.c
+  convert.c
+c:\users\sandro\onedrive\visualstudioprojekte\allgemein\c-stuff\c-stuff\convert.c(22): warning C4013: "printf" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\users\sandro\onedrive\visualstudioprojekte\allgemein\c-stuff\c-stuff\convert.c(9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: Siehe Deklaration von "strcpy"
+c:\users\sandro\onedrive\visualstudioprojekte\allgemein\c-stuff\c-stuff\convert.c(25): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strrev. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(579): note: Siehe Deklaration von "strrev"
+c:\users\sandro\onedrive\visualstudioprojekte\allgemein\c-stuff\c-stuff\convert.c(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: Siehe Deklaration von "strcpy"
+  array.c
+  Code wird generiert...
+  C-Stuff.vcxproj -> C:\Users\Sandro\OneDrive\VisualStudioProjekte\Allgemein\C-Stuff\Debug\C-Stuff.exe

@@ -1,0 +1,8 @@
+﻿  main.c
+main.c(53): warning C4477: "printf": Die Formatzeichenfolge "%f" erfordert ein Argument vom Typ "double", das variadic-Argument "1" weist aber den Typ "clock_t" auf.
+  Code wird generiert.
+  2 of 8 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  C-Stuff.vcxproj -> C:\Users\Sandro\OneDrive\VisualStudioProjekte\Allgemein\C-Stuff\Release\C-Stuff.exe

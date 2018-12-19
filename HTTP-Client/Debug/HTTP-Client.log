@@ -1,0 +1,4 @@
+﻿  http-client.c
+c:\users\sandro\onedrive\visualstudioprojekte\allgemein\c-stuff\http-client\http-client.c(64): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "char *" und "char (*)[4096]" unterschiedlich
+c:\users\sandro\onedrive\visualstudioprojekte\allgemein\c-stuff\http-client\http-client.c(64): warning C4024: "recv": unterschiedliche Typen für formalen und übergebenen Parameter 2
+  HTTP-Client.vcxproj -> C:\Users\Sandro\OneDrive\VisualStudioProjekte\Allgemein\C-Stuff\Debug\HTTP-Client.exe
